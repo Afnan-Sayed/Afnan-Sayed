@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋</h1>
-<h3 align="left">Hello! I am Afnan, a junior student at FCAI-CU, specializing in software engineering</h3>
+<h3 align="left">I am Afnan, a junior student at FCAI-CU, specializing in software engineering</h3>
           
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
