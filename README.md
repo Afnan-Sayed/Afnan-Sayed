@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Brittany&size=50&pause=1000&color=3dcd83&center=true&vCenter=true&width=800&height=100&lines=Hello+there!+I+am+Afnan+Sayed.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=GrandHotel&size=50&pause=1000&color=3dcd83&center=true&vCenter=true&width=800&height=100&lines=Hello+there!+I+am+Afnan+Sayed.)](https://git.io/typing-svg)
 # My name is Afnan 👋
 ### I am a Software Engineering student at FCAI-CU.
           
