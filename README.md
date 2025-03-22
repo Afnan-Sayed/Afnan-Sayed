@@ -6,14 +6,28 @@
 ---
 
 ### 🧠 About Me
-- 🎯 I’m passionate about **Backend Development** & **Problem Solving**
-- 🌱 Constantly learning and improving every day
+- 🎯 Passionate about **Backend Development**, **Problem Solving**.
+- 🚀 Eager to grow and learn!
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Afnan-Sayed)
+
+---
+
+### 💼 Highlight Project
+
+#### 🧳 [Travel Agency](https://github.com/Afnan-Sayed/Travel-Agency)
+A robust backend system designed for a travel agency, enabling users to:
+- Book hotel rooms & event tickets
+- Manage their bookings
+- Receive personalized notifications
+
+**Built with:**
+`Java`, `Spring Boot`, `MVC Architecture`, `SOLID Principles`, `Design Patterns`, `Postman (for testing)`
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -54,7 +68,8 @@
 ---
 
 ### 📫 Connect with Me
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/afnan-sayed-5354a0262/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
