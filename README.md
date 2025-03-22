@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F76C6C&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Afnan+Sayed+%F0%9F%91%8B;Backend+Developer+%7C+Problem+Solver+%7C+Future+AI+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F76C6C&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Afnan+Sayed+%F0%9F%91%8B;Backend+Developer+%7C+Problem+Solver+%7C)](https://git.io/typing-svg)
 
 <h1 align="center">Hi there 👋, I'm Afnan Sayed</h1>
 <h3 align="center">A passionate Software Engineering student at FCAI-CU</h3>
@@ -6,10 +6,7 @@
 ---
 
 ### 🧠 About Me
-- 🎯 I’m deeply passionate about **Backend Development** & **Problem Solving**
-- 🚀 Currently exploring **AI** and enhancing my backend skills
-- 💻 I built a full backend system: [Travel Agency Project](https://github.com/Afnan-Sayed/Travel-Agency)
-- 🧪 I use **Postman** for API testing and follow **SOLID principles** & clean architecture
+- 🎯 I’m passionate about **Backend Development** & **Problem Solving**
 - 🌱 Constantly learning and improving every day
 
 ---
@@ -58,7 +55,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/afnan-s-5354a0262/" target="blank">
+  <a href="https://www.linkedin.com/in/afnan-sayed-5354a0262/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:afnansayed50@gmail.com">
