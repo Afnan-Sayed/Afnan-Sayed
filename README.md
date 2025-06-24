@@ -14,6 +14,18 @@
 
 ### 💼 Highlight Project
 
+#### 🧳 [MiniSocial](https://github.com/Afnan-Sayed/Mini-Social)
+A lightweight social networking application designed to enhance user interactions in a collaborative environment., enabling users to:
+- Register and manage profiles
+- Connect with friends
+- Create and engage with posts
+- Participate in groups
+- Receive real-time notifications
+
+**Built with:**
+`Java`, `JakartaEE`, `MySQL`, `Layered Architecture`, `SOLID Principles`, `Design Patterns`, `Postman (for testing)`
+ 
+
 #### 🧳 [Travel Agency](https://github.com/Afnan-Sayed/Travel-Agency)
 A robust backend system designed for a travel agency, enabling users to:
 - Book hotel rooms & event tickets
@@ -22,6 +34,7 @@ A robust backend system designed for a travel agency, enabling users to:
 
 **Built with:**
 `Java`, `Spring Boot`, `MVC Architecture`, `SOLID Principles`, `Design Patterns`, `Postman (for testing)`
+
 
 ---
 
