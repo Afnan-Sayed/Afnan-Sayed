@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me
-- 🎯 Passionate about **Backend Development**, **Problem Solving**.
+- 🎯 Passionate about **Software Engineering** and **Problem Solving**.
 - 🚀 Eager to grow and learn!
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Afnan-Sayed)
 
