@@ -8,8 +8,7 @@
 ### 🧠 About Me
 - Have a strong understanding of Software Engineering concepts and mentored many students
 - Passionate about **Full-Stack developement** and **AWS Cloud Architecting**.
-- Eager to grow and learn!
-- All of my projects are available on my [GitHub](https://github.com/Afnan-Sayed)
+- Eager to grow, learn, and help others!
 
 ---
 
