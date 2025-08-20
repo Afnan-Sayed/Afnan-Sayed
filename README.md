@@ -70,10 +70,6 @@ A robust backend system designed for a travel agency, enabling users to:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afnan-Sayed&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1" alt="Afnan's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-Sayed&layout=compact&theme=radical&card_width=500" alt="Afnan's Top Languages" />
 </p>
 
