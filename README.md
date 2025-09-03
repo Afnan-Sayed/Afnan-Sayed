@@ -36,7 +36,7 @@ Features
 
 My Contribution
 - Implemented Reset Password functionality.
-- Developed Admin Management APIs (approve/reject providers, enable/disable providers).
+- Developed Admin Management APIs (approve/reject providers, enable/disable providers,...).
 
 **Built with:**
 `Java`, `Spring Boot`, `MVC Architecture`
