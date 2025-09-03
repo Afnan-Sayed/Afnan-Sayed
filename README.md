@@ -28,6 +28,7 @@ A lightweight social networking application designed to enhance user interaction
 
 #### [Car Care Services](https://github.com/Afnan-Sayed/Car-Care-Services)
 A Spring Boot application that provides a platform for car maintenance services, connecting customers with service providers, managed by an admin.
+
 Features
 - Customer: browse services, request services, track request status.
 - Provider: register account (pending → approved/rejected by admin), deliver services.
