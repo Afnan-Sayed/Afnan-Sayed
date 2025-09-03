@@ -26,15 +26,19 @@ A lightweight social networking application designed to enhance user interaction
 `Java`, `JakartaEE`, `MySQL`, `Layered Architecture`, `SOLID Principles`, `Design Patterns`, `Postman (for testing)`
  
 
-#### [Travel Agency](https://github.com/Afnan-Sayed/Travel-Agency)
-A robust backend system designed for a travel agency, enabling users to:
-- Book hotel rooms & event tickets
-- Manage their bookings
-- Receive personalized notifications
+#### [Car Care Services](https://github.com/Afnan-Sayed/Car-Care-Services)
+A Spring Boot application that provides a platform for car maintenance services, connecting customers with service providers, managed by an admin.
+Features
+- Customer: browse services, request services, track request status.
+- Provider: register account (pending → approved/rejected by admin), deliver services.
+- Admin: manage providers (approve/reject, enable/disable), manage services (CRUD).
+
+My Contribution
+- Implemented Reset Password functionality.
+- Developed Admin Management APIs (approve/reject providers, enable/disable providers).
 
 **Built with:**
-`Java`, `Spring Boot`, `MVC Architecture`, `SOLID Principles`, `Design Patterns`, `Postman (for testing)`
-
+`Java`, `Spring Boot`, `MVC Architecture`
 
 ---
 
