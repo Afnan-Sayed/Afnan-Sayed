@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F76C6C&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Afnan+Sayed;Full-Stack+%7C+AWS+Cloud+Architect+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 <h1 align="center">Hi there 👋, I'm Afnan </h1>
-<h3 align="center">A passionate Software Engineering student at FCAI-CU</h3>
+<h3 align="center">A passionate Senior Software Engineering student at FCAI-CU</h3>
 
 ---
 
