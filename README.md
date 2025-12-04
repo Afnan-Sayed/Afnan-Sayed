@@ -4,9 +4,6 @@
 <h3 align="center">A passionate Senior Software Engineering student at FCAI-CU</h3>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afnan-sayed&label=Profile%20Views&color=0e75b6&style=flat-square" alt="afnan-sayed" />
-</p>
 
 ### 🧠 About Me
 - Have a strong understanding of Software Engineering concepts and mentored many students
