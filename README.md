@@ -106,8 +106,10 @@
 
 <div align="center">
 
-![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afnan-Sayed&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-Sayed&layout=compact&theme=radical&hide_border=true)
+[![Afnan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Afnan-Sayed&theme=radical)](https://github.com/Afnan-Sayed)
+
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Afnan-Sayed&theme=radical)](https://github.com/Afnan-Sayed)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Afnan-Sayed&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
