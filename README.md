@@ -1,92 +1,131 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F76C6C&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Afnan+Sayed;Full-Stack+%7C+AWS+Cloud+Architect+%7C+Problem+Solver)](https://git.io/typing-svg)
 
-<h1 align="center">Hi there 👋, I'm Afnan </h1>
-<h3 align="center">A passionate Senior Software Engineering student at FCAI-CU</h3>
+</div>
+
+---
+
+## 👋 Hi, I'm Afnan Sayed
+
+🎓 Senior Software Engineering student @ **Cairo University – FCAI** 
 
 ---
 
 ### 🧠 About Me
-- Have a strong understanding of Software Engineering concepts and mentored many students
-- Passionate about **Full-Stack developement** and **AWS Cloud Architecting**.
-- Eager to grow, learn, and help others!
+
+- 🏗️ Passionate about **Full-Stack Development**
+- 💡 Strong understanding of Software Engineering concepts
+- 🚀 Experienced building enterprise-level systems with **Java**, **Spring Boot**, **.NET**, and **React**
+- 🌱 Always eager to grow, learn, and contribute
 
 ---
 
-### 💼 Highlight Project
+### 🛠️ Languages & Tools
 
-#### [MiniSocial](https://github.com/Afnan-Sayed/Mini-Social)
-A lightweight social networking application designed to enhance user interactions in a collaborative environment., enabling users to:
-- Register and manage profiles
-- Connect with friends
-- Create and engage with posts
-- Participate in groups
-- Receive real-time notifications
+<div align="center">
 
-**Built with:**
-`Java`, `JakartaEE`, `MySQL`, `Layered Architecture`, `SOLID Principles`, `Design Patterns`, `Postman (for testing)`
- 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### [Car Care Services](https://github.com/Afnan-Sayed/Car-Care-Services)
-A Spring Boot application that provides a platform for car maintenance services, connecting customers with service providers, managed by an admin.
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-%23F76C6C.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 
-Features
-- Customer: browse services, request services, track request status.
-- Provider: register account (pending → approved/rejected by admin), deliver services.
-- Admin: manage providers (approve/reject, enable/disable), manage services (CRUD).
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-My Contribution
-- Implemented Reset Password functionality.
-- Developed Admin Management APIs (approve/reject providers, enable/disable providers,...).
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**Built with:**
-`Java`, `Spring Boot`, `MVC Architecture`
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+### 💼 Highlight Projects
 
-<p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+#### 🏭 [ERP System](https://github.com/Afnan-Sayed/ERP-System) — Full-Stack ERP Web App
+> `C#` `ASP.NET Core API` `ASP.NET MVC` `Entity Framework Core` `MS SQL Server` `Swagger` `Git/GitHub`
+
+- Designed and implemented backend modules for Sales & Purchase Invoices, Returns, and transaction logging
+- Built a relational database schema to manage inventory, stock movements, and invoice transactions
+- Implemented clean architecture principles for maintainability and scalability
+- Created dynamic invoice and reporting dashboards to visualize operational data
+
+---
+
+#### 🎉 [EventHub](https://github.com/Event-Planner-System) — Full-Stack Event Management Platform
+> `Python (FastAPI)` `React` `MongoDB` `Docker` `Podman` `Kubernetes` `OpenShift` `Git/GitHub`
+
+- Built interactive React dashboards to visualize system data
+- Developed RESTful APIs with FastAPI, focusing on validation and structured data handling
+- Containerized and deployed using Docker and OpenShift, ensuring environment consistency
+
+---
+
+#### 📦 [Shippix](https://github.com/NORO-01/Shippix-Java) — Full-Stack Shipment Management System
+> `Java` `Spring Boot` `REST APIs` `Layered Architecture` `PostgreSQL` `Postman` `Jira` `Git/GitHub`
+
+- Developed backend modules for Orders, Payments, and Analytics using Spring Boot and JPA
+- Implemented order lifecycle tracking and payment state management
+- Designed and optimized SQL queries for transaction processing and reporting
+
+---
+
+#### 🚗 [Car Care Services](https://github.com/Afnan-Sayed/Car-Care-Services) — Spring Boot Service Platform
+> `Java` `Spring Boot` `MVC Layered Architecture` `MySQL`
+
+- Implemented Reset Password functionality and Admin Management APIs
+- Built a platform connecting customers with service providers, managed by an admin
+- Admin controls: approve/reject and enable/disable service providers
+
+---
+
+#### 🌐 [MiniSocial](https://github.com/Afnan-Sayed/Mini-Social) — Social Media Backend System
+> `Java` `Jakarta EE` `JBoss EAP 8` `JPA` `JMS` `JAAS` `MySQL` `Maven` `Postman` `Git/GitHub`
+
+- Developed posts management module and applied clean architecture with design patterns
+- Managed relational database integration and optimized backend queries
+- Enabled users to register, connect, post, join groups, and receive real-time notifications
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-Sayed&layout=compact&theme=radical&card_width=500" alt="Afnan's Top Languages" />
-</p>
+<div align="center">
+
+![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afnan-Sayed&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-Sayed&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/afnan-sayed-5354a0262/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:afnansayed50@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afnan-sayed-mahmoud)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afnan-Sayed)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afnansayed50@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Afnan-Sayed&color=F76C6C&style=flat-square" alt="Profile Views" />
+</div>
