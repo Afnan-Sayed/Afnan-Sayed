@@ -1,13 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F76C6C&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Afnan+Sayed;Full-Stack+%7C+AWS+Cloud+Architect+%7C+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F76C6C&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Afnan+Sayed;Full-Stack+%7C+Software+Engineer+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 👋 Hi, I'm Afnan Sayed
-
 🎓 Senior Software Engineering student @ **Cairo University – FCAI** 
 
 ---
@@ -109,6 +108,7 @@
 
 ![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afnan-Sayed&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-Sayed&layout=compact&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Afnan-Sayed&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
