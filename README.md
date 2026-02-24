@@ -4,15 +4,9 @@
 
 </div>
 
----
-
-## 👋 Hi, I'm Afnan Sayed
-🎓 Senior Software Engineering student @ **Cairo University – FCAI** 
-
----
 
 ### 🧠 About Me
-
+- 🎓 Senior Software Engineering student @ **Cairo University – FCAI** 
 - 🏗️ Passionate about **Full-Stack Development**
 - 💡 Strong understanding of Software Engineering concepts
 - 🚀 Experienced building enterprise-level systems with **Java**, **Spring Boot**, **.NET**, and **React**
